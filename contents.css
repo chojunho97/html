@@ -42,10 +42,6 @@ header>ul>li>a {
   padding-bottom: 5px; 
   color: gray;
 }
-header>ul>li:first-child>a {
-  color: white;
-  border-bottom: 5px solid white;
-}
 header>ul>li>a:hover {
   border-bottom: 5px solid white;
 }
